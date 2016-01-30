@@ -123,9 +123,9 @@ public class WeekManager : MonoBehaviour {
 			} else {
 				//Display / Reposition Panels
 
-				if(i == 0){
-					recipePanel_1
-				}
+//				if(i == 0){
+//					recipePanel_1
+//				}
 
 			}
 
